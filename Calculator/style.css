@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.calculator {
+  background-color: white;
+  width: 20%;
+  border-radius: 10px;
+  margin: 200px;
+  margin-left: 500px;
+}
+
+.container {
+  margin-left: 25px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.btns {
+  background-color: blue;
+  color: white;
+  border: none;
+  margin: 2px;
+  border-radius: 5px;
+
+  width: 53px;
+  height: 24px;
+  font-size: medium;
+}
+
+.input {
+  padding: 5px;
+}
